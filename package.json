@@ -2,10 +2,7 @@
   "name": "@tenjojeremy/perttier-config",
   "version": "0.1.0",
   "description": "Global Prettier config",
-  "main": "prettier.index.js",
-  "files": [
-    "prettier.index.js"
-  ],
+  "main": "index.js",
   "scripts": {
     "deploy": "yarn publish --minor && gpush"
   },
