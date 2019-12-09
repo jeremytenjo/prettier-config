@@ -15,9 +15,9 @@ package.json
 ## Config 
 ```js
 module.exports = {
-  printWidth: 120,
+  printWidth: 90,
   trailingComma: 'all',
-  tabWidth: 2,
+  tabWidth: 2, 
   semi: false,
   singleQuote: true,
   jsxSingleQuote: true,
