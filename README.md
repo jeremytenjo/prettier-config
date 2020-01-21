@@ -5,9 +5,17 @@
 ```sh
 yarn add @tenjojeremy/prettier-config
 ```
+
+```sh
+yarn add prettier
+```
+
 package.json
 ```json
 {
+  "scripts": {
+    "pretty": "prettier \"**/*.js\" --write"
+  },
   "prettier": "@tenjojeremy/prettier-config"
 }
 ```
