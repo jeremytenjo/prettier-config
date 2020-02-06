@@ -12,7 +12,7 @@ package.json
 ```json
 {
   "scripts": {
-    "pretty": "prettier \"**/*.js\" --write"
+    "prettify": "prettier \"**/*.js\" --write"
   },
   "prettier": "@tenjojeremy/prettier-config"
 }
