@@ -1,5 +1,3 @@
-# Prettier-Config
-
 ## Usage 
 
 ```sh
