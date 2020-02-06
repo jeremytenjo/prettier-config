@@ -1,11 +1,11 @@
 #### Usage 
 
 ```sh
-yarn add @tenjojeremy/prettier-config
+npm i @tenjojeremy/prettier-config
 ```
 
 ```sh
-yarn add prettier
+npm i add prettier
 ```
 
 package.json
