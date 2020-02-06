@@ -5,7 +5,7 @@ npm i @tenjojeremy/prettier-config
 ```
 
 ```sh
-npm i add prettier
+npm i prettier
 ```
 
 package.json
