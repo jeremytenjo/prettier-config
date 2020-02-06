@@ -1,4 +1,4 @@
-## Usage 
+### Usage 
 
 ```sh
 yarn add @tenjojeremy/prettier-config
@@ -18,7 +18,7 @@ package.json
 }
 ```
 
-## Config 
+### Config 
 ```js
 module.exports = {
   printWidth: 90,
