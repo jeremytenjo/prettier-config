@@ -1,19 +1,11 @@
 {
   "name": "@tenjojeremy/prettier-config",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Global Prettier config",
   "main": "index.js",
   "scripts": {
-    "deploy": "yarn publish --minor && gpush"
+    "deploy": "npm publish --minor && gpush"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tenjojeremy/Prettier-Config.git"
-  },
-  "author": "Jeremy Tenjo <tenjojeremy@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tenjojeremy/Prettier-Config/issues"
-  },
+  "repository": "git+https://github.com/tenjojeremy/Prettier-Config.git",
   "homepage": "https://github.com/tenjojeremy/Prettier-Config#readme"
 }
